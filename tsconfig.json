@@ -8,7 +8,8 @@
     "skipLibCheck": true,
     "outDir": "dist",
     "experimentalDecorators": true,
-   // "outFile": "./dist/bundle.js"
+    "sourceMap": true
+    // "outFile": "./dist/bundle.js"
   },
   "include": ["src"]
 }
